@@ -1,14 +1,13 @@
 import React, { useState } from 'react';
-import heritage2 from '../../../../assets/image/heritage2.png'
-import heritage3 from '../../../../assets/image/heritage3.png'
-import heritage4 from '../../../../assets/image/heritage4.png'
-import heritage5 from '../../../../assets/image/heritage5.png'
-import heritage6 from '../../../../assets/image/heritage6.png'
-import heritage7 from '../../../../assets/image/heritage7.png'
-import heritage8 from '../../../../assets/image/heritage8.png'
-
-import h from '../../../../assets/image/Heritage1.png'
-import Heritage1 from '../../../../assets/image/Heritage.png'
+import heritage2 from '../Heritage/images/heritage2.png'
+import heritage3 from '../Heritage/images/heritage3.png'
+import heritage4 from '../Heritage/images/heritage4.png'
+import heritage5 from '../Heritage/images/heritage5.png'
+import heritage6 from '../Heritage/images/heritage6.png'
+import heritage7 from '../Heritage/images/heritage7.png'
+import heritage8 from '../Heritage/images/heritage8.png'
+import h from '../Heritage/images/Heritage1.png'
+import Heritage1 from '../Heritage/images/Heritage.png'
 import styles from '../Heritage/Heritage.module.css'
 const brands = [
   heritage2,
