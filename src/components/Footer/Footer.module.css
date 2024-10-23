@@ -1,0 +1,135 @@
+footer{
+    background-color: #2c2c2c;
+}
+.footer {
+    background-color: #2c2c2c;
+    color: #ffffff;
+    
+  }
+  .carbonNeutral{
+    background-color: #0b0b0b;
+  }
+  .carbonNeutral i{
+    font-size: 9vh;
+    background-color: #0b0b0b;
+  }
+  
+  .footerTop {
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #0b0b0b;
+         background-color:#0b0b0b;
+     color: #ffffff;
+ 
+    width: 100%;
+}
+
+.paymentMethods i { font-size: 7vh; 
+      background-color:#0b0b0b;
+    
+    margin: 4px;
+  }
+  .paymentMethods{
+    background-color:#0b0b0b;
+  }
+  
+  .footerBottom {margin-left: 5em;
+    display: flex;
+    background-color: #2c2c2c;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  
+  .column {     
+     background-color: #2c2c2c;
+    display: flex;
+    flex-direction: column;
+    margin-right: 40px;
+  }
+  .column h4{
+    background-color: #2c2c2c;
+  }
+  
+  .column a {      
+    background-color: #2c2c2c;
+color: #ffffff;
+    text-decoration: none;
+    margin-bottom: 10px;
+  }
+  
+  .column a:hover {
+    background-color: #2c2c2c;
+
+    text-decoration: underline;
+  }
+  
+  
+  .socialMedia h4 {margin-left: 1em;
+    display: flex;color: #ffffff;
+    background-color: #050505;
+  }
+  .socialMedia  {
+    display: flex;
+    background-color: #050505;
+
+  }
+  .socialMedia i {color: #ffffff;
+    font-size: 3vh;
+  margin-left: 1em;
+    background-color: #050505;
+  }
+  .socialMedia1{
+    background-color: #050505;
+    margin-left:18em;
+  }
+  .socialMedia1 i{color: #ffffff;
+    margin-left: 1em;
+    background-color: #050505;
+    
+  }
+  .newsletter {     margin-left: 1em;
+     background-color: #2c2c2c;
+display: flex;
+    flex-direction: column;
+  }
+  .newsletter h4{
+    background-color: #2c2c2c;
+  }
+  .newsletter p{
+    background-color: #2c2c2c;
+  }
+  
+  .newsletter input {      background-color: #2c2c2c;
+color: #ffffff;
+    padding: 10px;
+    margin-top: 10px;
+    width: 200px;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .newsletter button {
+    background-color: #444;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  
+  .newsletter button:hover {
+  
+    color: #ffffff;
+  }
+  .copy h5{
+    
+    background-color: #050505;
+  }
+  .copy{color: #ffffff;
+    background-color: #050505;
+margin-left: 19em;
+  }
+  
+  
+  

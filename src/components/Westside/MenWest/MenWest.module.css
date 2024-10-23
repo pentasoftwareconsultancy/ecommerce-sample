@@ -1,0 +1,69 @@
+.p {
+    font-size: 50px;
+  margin-top: 4%;
+  margin-left: 33%;
+}
+.ps p { color: black;
+  font-size: 50px;
+margin-top: 4%;
+margin-left: 33%;
+}
+.pss p { color: black;
+  font-size: 50px;
+margin-top: 4%;
+margin-left: 45%;
+}
+
+/* Slider container */
+.slider {
+    width: 100%;
+    position: relative;
+    height: 40%;
+    border-radius: 5px;
+    max-width: 90%;
+    overflow: hidden;
+    margin: auto;
+    margin-top: 1%;
+    box-sizing: 10%;
+  }
+  
+  /* Slider inner wrapper */
+  .sliderInner {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  /* Individual slide */
+  .sliderItem {
+    min-width: 100%;
+  }
+  
+  /* Images styling */
+  .sliderItem img {
+    border-radius: 3%;
+    width: 100%;
+    display: block;
+  }
+a{
+    color: black;
+    text-decoration: none;
+}
+.Bring img{
+    width: 85%;
+    height: 56vh;
+    margin-left: 7%;
+}
+.Bring1 {
+    display: flex;
+  margin-left: 12%;
+    width: 70%;
+    margin-top: 5%;
+}
+.ca{
+display: flex;
+margin-left: 9%;
+}
+.Bring1 img{
+ margin-left: 5%;
+    width: 100%;
+}

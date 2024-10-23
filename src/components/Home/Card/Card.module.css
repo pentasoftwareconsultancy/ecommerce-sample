@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+.row{
+    margin-left: 5%;
+    width: 90%;
+   margin-top: 5%;
+    display: flex;
+}
+.card  img{
+    border-radius: 5%;
+    margin: 1%;
+    width: 89%;
+}

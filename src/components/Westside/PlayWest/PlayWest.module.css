@@ -1,0 +1,43 @@
+.row{
+    border-radius: 10%;
+    margin-top: 5%;
+margin-left: 14%;
+    display: flex;
+    width: 70%;
+    height: 30vh;
+}
+.col{
+    width: 100%;
+}
+.card img{
+    margin-left: 9%;
+    width: 90%;
+    height: 50vh;
+}
+.card1 img{
+    margin-left: 1%;
+    width: 90%;
+    height: 50vh;
+}
+.row1{margin-left: 14%;
+    border-radius: 10%;
+    margin-top: 2%;
+    display: flex;
+    width: 70%;
+    height: 30vh;
+}
+.brand img{
+    margin-left: 12%;
+    width: 70%;
+    margin-top: 5%;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+.p p {
+    font-size: 50px;
+  margin-top: 15%;
+  margin-left: 33%;
+}
